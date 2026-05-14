@@ -1,0 +1,1 @@
+https://medium.com/@abalonpsalmer/letsdefend-challenge-aws-cloudtrail-14adc0dc4d70

@@ -1,0 +1,1 @@
+https://medium.com/@abalonpsalmer/letsdefend-challenge-aws-persestence-67a359a64342
